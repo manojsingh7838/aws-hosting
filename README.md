@@ -1,6 +1,6 @@
 ## README.md
 
-This document outlines the steps to set up a Django application with Gunicorn, Supervisor, and Nginx on an Ubuntu server. 
+This document outlines the steps to set up a Django application with Gunicorn, Supervisor, and Nginx on an Ubuntu server. ikka
 
 ### Prerequisites
 
